@@ -45,7 +45,20 @@ This project implements efficient graph algorithms for shortest path computation
 
 # Project Structure
 
-text Graph-Based-Routing-System/ │ ├── Phase-1/ ├── Phase-2/ ├── Phase-3/ ├── testcases/ ├── README.md ├── Makefile 
+```text
+Graph-Based-Routing-System/
+│
+├── Phase-1/
+├── Phase-2/
+├── Phase-3/
+├── testcases/
+├── README.md
+└── Makefile
+```
+
+---
+
+# Build Instructions
 
 ---
 
